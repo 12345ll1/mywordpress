@@ -12,14 +12,56 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/games/feed/" rel="self" type="application/rss+xml" />
 	<link>https://12345ll1.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 05 Oct 2022 03:28:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Oct 2022 09:34:14 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
+		<title>Cras eget augue T-shirt</title>
+		<link>https://12345ll1.github.io/mywordpress/san-pham/cras-eget-augue-t-shirt-2/</link>
+					<comments>https://12345ll1.github.io/mywordpress/san-pham/cras-eget-augue-t-shirt-2/#respond</comments>
+		
+		<dc:creator><![CDATA[ledinhthien]]></dc:creator>
+		<pubDate>Tue, 25 Oct 2022 09:33:46 +0000</pubDate>
+				<guid isPermaLink="false">https://12345ll1.github.io/mywordpress/?post_type=product&#038;p=223</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.
+<ul>
+ 	<li>Lorem ipsum dolor.</li>
+ 	<li>Maecenas ullamcorper.</li>
+ 	<li>Etiam nec massa.</li>
+ 	<li>Mauris eget diam magna</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h5><strong>Paragraph text</strong></h5>
+<p>Nam tristique porta ligula, vel viverra sem eleifend nec. Nulla sed purus augue, eu euismod tellus. Nam mattis eros nec mi sagittis sagittis. Vestibulum suscipit cursus bibendum. Integer at justo eget sem auctor auctor eget vitae arcu. Nam tempor malesuada porttitor. Nulla quis dignissim ipsum. Aliquam pulvinar iaculis justo, sit amet interdum sem hendrerit vitae. Vivamus vel erat tortor. Nulla facilisi. In nulla quam, lacinia eu aliquam ac, aliquam in nisl.</p>
+<h5><strong>Unordered list</strong></h5>
+<ul>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+<li>Maecenas ullamcorper est et massa mattis condimentum.</li>
+<li>Vestibulum sed massa vel ipsum imperdiet malesuada id tempus nisl.</li>
+<li>Etiam nec massa et lectus faucibus ornare congue in nunc.</li>
+<li>Mauris eget diam magna, in blandit turpis.</li>
+</ul>
+<h5><strong>Ordered list</strong></h5>
+<ol>
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+<li>Maecenas ullamcorper est et massa mattis condimentum.</li>
+<li>Vestibulum sed massa vel ipsum imperdiet malesuada id tempus nisl.</li>
+<li>Etiam nec massa et lectus faucibus ornare congue in nunc.</li>
+<li>Mauris eget diam magna, in blandit turpis.</li>
+</ol>
+<p>In cursus faucibus tortor eu vestibulum. Ut eget turpis ac justo porta varius. Donec vel felis ante, ac vehicula ipsum. Quisque sed diam metus. Quisque eget leo sit amet erat varius rutrum vitae dapibus lectus. Vivamus et sapien ante. Suspendisse potenti. Fusce in tellus est, ac consequat lacus. Nulla risus massa, commodo in imperdiet ut, ornare in leo. Duis pellentesque sagittis lorem, sed mollis lorem venenatis id.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://12345ll1.github.io/mywordpress/san-pham/cras-eget-augue-t-shirt-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Lorem ipsum dolor</title>
 		<link>https://12345ll1.github.io/mywordpress/san-pham/lorem-ipsum-dolor/</link>
 					<comments>https://12345ll1.github.io/mywordpress/san-pham/lorem-ipsum-dolor/#respond</comments>
